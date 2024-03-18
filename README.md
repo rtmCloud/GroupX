@@ -1,2 +1,2 @@
 # GroupX
-It contains project based solutions..
+It contains AI, electronic and updating solutions
